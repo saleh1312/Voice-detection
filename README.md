@@ -1,5 +1,4 @@
-### to download the full project with the dataset link is here
-##https://www.mediafire.com/file/i0fcmg9mdodjn2s/bsf+project.rar/file
+
 
 #note1:
 
